@@ -1,0 +1,21 @@
+{
+  "name": "mab",
+  "version": "1.0.0",
+  "description": "A multi-armed bandit simulator in Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacobjfoley/mab.git"
+  },
+  "keywords": [],
+  "author": "Jacob Foley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jacobjfoley/mab/issues"
+  },
+  "homepage": "https://github.com/jacobjfoley/mab#readme"
+}
