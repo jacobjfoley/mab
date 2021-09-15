@@ -1,21 +1,21 @@
 {
-  "name": "mab",
+  "name": "multi-armed-bandit",
   "version": "1.0.0",
   "description": "A multi-armed bandit simulator in Node.js",
-  "main": "src/index.js",
+  "main": "src/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/index.mjs"
+    "start": "node src/main.mjs"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacobjfoley/mab.git"
+    "url": "git+https://github.com/jacobjfoley/multi-armed-bandit.git"
   },
   "keywords": [],
   "author": "Jacob Foley",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jacobjfoley/mab/issues"
+    "url": "https://github.com/jacobjfoley/multi-armed-bandit/issues"
   },
-  "homepage": "https://github.com/jacobjfoley/mab#readme"
+  "homepage": "https://github.com/jacobjfoley/multi-armed-bandit#readme"
 }

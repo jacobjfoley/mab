@@ -2,6 +2,10 @@
 
 A multi-armed bandit simulator in Node.js.
 
+## Usage
+
+`npm start` to run the simulation.
+
 ## Overview
 
 Each "bandit" represents a process with an uncertain outcome, like a one-armed bandit in a casino. Some bandits give higher rewards than others: a "lucky" machine. In this repository we implement a variety of different strategies that explore different bandits and then exploit the one they have detected to yield the highest reward to compare approaches.
